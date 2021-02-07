@@ -1,52 +1,52 @@
-,State,Urban_Index,Urban_Scale
-0,AL,9.606,Very Rural
-1,AK,8.736,Very Rural
-3,AZ,11.3,Very Urban
-4,AR,9.259,Very Rural
-5,CA,12.19,Very Urban
-6,CO,11.154,Urban
-7,CT,11.41,Very Urban
-8,DE,11.01,Urban
-9,DC,13.441,Very Urban
-10,FL,11.465,Very Urban
-11,GA,10.552,Urban
-13,HI,11.086,Urban
-14,ID,9.594,Very Rural
-15,IL,11.624,Very Urban
-16,IN,10.41,Rural
-17,IA,9.594,Very Rural
-18,KS,10.12,Rural
-19,KY,9.79,Rural
-20,LA,10.175,Rural
-21,ME,9.037,Very Rural
-22,MD,11.711,Very Urban
-23,MA,11.84,Very Urban
-24,MI,10.806,Urban
-25,MN,10.457,Urban
-26,MS,8.911,Very Rural
-27,MO,10.202,Rural
-28,MT,8.47,Very Rural
-29,NE,10.199,Rural
-30,NV,11.77,Very Urban
-31,NH,9.917,Rural
-32,NJ,12.236,Very Urban
-33,NM,9.897,Rural
-34,NY,12.559,Very Urban
-35,NC,10.325,Rural
-36,ND,9.055,Very Rural
-38,OH,10.877,Urban
-39,OK,9.939,Rural
-40,OR,10.712,Urban
-41,PA,11.146,Urban
-43,RI,11.721,Very Urban
-44,SC,10.111,Rural
-45,SD,8.729,Very Rural
-46,TN,10.197,Rural
-47,TX,11.175,Very Urban
-48,UT,10.963,Urban
-49,VT,8.843,Very Rural
-51,VA,10.906,Urban
-52,WA,11.119,Urban
-53,WV,9.111,Very Rural
-54,WI,10.191,Rural
-55,WY,8.256,Very Rural
+State,Urban_Index,Urban_Scale
+AL,9.606,Very Rural
+AK,8.736,Very Rural
+AZ,11.3,Very Urban
+AR,9.259,Very Rural
+CA,12.19,Very Urban
+CO,11.154,Urban
+CT,11.41,Very Urban
+DE,11.01,Urban
+DC,13.441,Very Urban
+FL,11.465,Very Urban
+GA,10.552,Urban
+HI,11.086,Urban
+ID,9.594,Very Rural
+IL,11.624,Very Urban
+IN,10.41,Rural
+IA,9.594,Very Rural
+KS,10.12,Rural
+KY,9.79,Rural
+LA,10.175,Rural
+ME,9.037,Very Rural
+MD,11.711,Very Urban
+MA,11.84,Very Urban
+MI,10.806,Urban
+MN,10.457,Urban
+MS,8.911,Very Rural
+MO,10.202,Rural
+MT,8.47,Very Rural
+NE,10.199,Rural
+NV,11.77,Very Urban
+NH,9.917,Rural
+NJ,12.236,Very Urban
+NM,9.897,Rural
+NY,12.559,Very Urban
+NC,10.325,Rural
+ND,9.055,Very Rural
+OH,10.877,Urban
+OK,9.939,Rural
+OR,10.712,Urban
+PA,11.146,Urban
+RI,11.721,Very Urban
+SC,10.111,Rural
+SD,8.729,Very Rural
+TN,10.197,Rural
+TX,11.175,Very Urban
+UT,10.963,Urban
+VT,8.843,Very Rural
+VA,10.906,Urban
+WA,11.119,Urban
+WV,9.111,Very Rural
+WI,10.191,Rural
+WY,8.256,Very Rural
